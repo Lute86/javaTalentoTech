@@ -30,7 +30,7 @@ CORS: Habilitado para desarrollo frontend
 
 🚀 Para empezar rápidamente:
 
-Abrir la terminal en el directorio PI Final - Spring
+Abrir la terminal en el directorio
 Ejecutar con mvn spring-boot:run
 Probar en http://localhost:8080
 
